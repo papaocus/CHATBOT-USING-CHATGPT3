@@ -1,4 +1,6 @@
 # CHATBOT-USING-CHATGPT3
+I have developed a charbot on a philoshophy book that is really close to my heart it written by a roman philoshpher Marcus Aurulies and build and hosted website on  
+Streamlit 
 
 FOR THE FIRST TIME THE CHAT BOT WORKED FINE 
 
@@ -7,3 +9,5 @@ FOR THE FIRST TIME THE CHAT BOT WORKED FINE
 BUT IF I REFRESHED THE BOT IT IS SHOWING THE ERROR LIKE THIS AND LOADING THE ANSWER
 
 ![Screenshot 2023-02-25 153830](https://user-images.githubusercontent.com/115074006/221351335-4adc2a9e-26d3-4e31-89d5-135636f553b5.jpg)
+
+LINK:https://papaocus-chatbot-using-chatgpt3-app-bhgi1u.streamlit.app/
